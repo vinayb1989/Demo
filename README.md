@@ -1,1 +1,1 @@
- # Demo 1 2 8
+Sample application packaged as a container
